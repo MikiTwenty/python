@@ -1,0 +1,1 @@
+Small package to simplify video streaming using python built-in socket library
