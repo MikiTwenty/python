@@ -4,7 +4,6 @@
 
 ## [Libraries](Libraries)
 
-- **[imgdt (Images Dataset Transformer)](Libraries/imgdt)**
 - **[videostreaming (Socket Video Streaming)](Libraries/videostreaming)**
 
 ## [Scripts](Scripts)
