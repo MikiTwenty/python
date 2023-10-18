@@ -4,7 +4,7 @@
 
 ## [University](University)
 
-- **[Amazon Book Review Classifier (ABRC)](University/Natural%20Lenguage%20Processing/Sentiment%20Analysis)**
+- **[Amazon Books Reviews Classifier (ABRC)](University/Natural%20Lenguage%20Processing/Sentiment%20Analysis/ABRC)**
 
 ## [Scripts](Scripts)
 
