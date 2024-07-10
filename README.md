@@ -1,11 +1,13 @@
-# Python <a href="https://www.python.org/" title="Python"><img src="images/python-logo.png" width=24/></a>
+# Python <a href="https://www.python.org/" title="Python"><img src="media/images/python-logo.png" width=24/></a>
 
-<img src="images/hello_world.png" alt="example" width="240"/></img>
+<img src="media/images/hello_world.png" alt="example" width="240"/></img>
 
 ## [Projects](Projects)
 
-- **[Amazon Books Reviews Classifier (ABRC)](projects/natural-language-processing/sentiment-analysis/amazon-books-reviews-classifier)**
-- **[Cart Pole Agent](projects/reinforcement-learning/deep-q-networks/cart-pole-agent)**
+- **[Amazon Books Reviews Classifier (ABRC)](projects/ABRC)**
+- **[Cart Pole Agent](projects/cart-pole-agent)**
+- **[Project Trinity](projects/project-trinity)**
+- **[Social Network Analysis Project (SNAP-X)](projects/SNAP-X)**
 
 ## [Scripts](Scripts)
 
