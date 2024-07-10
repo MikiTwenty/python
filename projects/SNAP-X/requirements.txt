@@ -1,0 +1,12 @@
+tdqm
+numpy
+scipy
+torch
+spacy
+pandas
+chardet
+networkx
+wordcloud
+matplotlib
+python-terrier
+transformers[sentencepiece]
