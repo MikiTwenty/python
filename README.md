@@ -1,4 +1,4 @@
-# Python <a href="https://www.python.org/" title="Python"><img src="images/python-logo.png" width=24/></a>
+# Python <a href="https://www.python.org/" title="Python"><img src="media/images/python-logo.png" width=24/></a>
 
 <img src="media/images/hello_world.png" alt="example" width="240"/></img>
 
